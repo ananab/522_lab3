@@ -5,11 +5,15 @@
 #   - a URL pointing to the data
 # - a path/filename where to write the file to and what to call it (*e.g.,* `data/data.csv`)
 args <- commandArgs(trailingOnly=TRUE)
+
+# load tidyverse library
 library(tidyverse)
 
+# set arguments
 input_url <- args[1]
 destname <- args[2]
 
+# download file from url given in argument 1, and save it to destnation given in argument 2 using curl
 download.file(url = input_url, destfile = destname, method = "curl")
 # sample usage:
 # Rscript src/ex1_1.R https://raw.githubusercontent.com/STAT545-UBC/STAT545-UBC.github.io/master/gapminderDataFiveYear.txt data/testdata.tsv
