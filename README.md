@@ -19,6 +19,6 @@ DSCI 522 lab 3 for Kai He (hknaicha)
 |[results](https://github.ubc.ca/ubc-mds-2016/DSCI_522_lab_3_he_kai/tree/master/results)|[ex1_4.html](https://github.ubc.ca/ubc-mds-2016/DSCI_522_lab_3_he_kai/blob/master/results/ex1_4.html)|preview of [ex1_4.md](https://github.ubc.ca/ubc-mds-2016/DSCI_522_lab_3_he_kai/blob/master/results/ex1_4.md)|open in browser|
 
 
+The dependency graph of Makefile is also posted here:
 
-
-![make file dependency graph](dependency.png)
+![Makefile dependency graph](dependency.png)
