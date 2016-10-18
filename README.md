@@ -12,4 +12,4 @@ DSCI 522 lab 3 for Kai He (hknaicha)
 
 
 
-![make file dependency graph](out.png)
+![make file dependency graph](dependency.png)
