@@ -2,6 +2,16 @@
 
 DSCI 522 lab 3 for Kai He (hknaicha)
 
+Added docker file:
+
+[Dockerfile](https://github.ubc.ca/hknaicha/DSCI_522_lab_3_he_kai/blob/master/Dockerfile)
+
+Created Docker image on Docker hub:
+
+[Docker image](https://hub.docker.com/r/ananab/dsci_522_lab4/tags/)
+
+
+
 |directory|file|nature|usage|
 |---------|----|------|-----|
 |[root](https://github.ubc.ca/ubc-mds-2016/DSCI_522_lab_3_he_kai)|[lab3.md](https://github.ubc.ca/ubc-mds-2016/DSCI_522_lab_3_he_kai/blob/master/lab3.md)|Markdown instruction for lab3|open in Rstudio or view on github|
