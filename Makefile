@@ -6,7 +6,6 @@ all: results/ex1_4.md
 # give clean tag to remove all results in results folder as well as data downloaded
 clean: 
 	rm -f results/*
-	rm -f data/*
 
 # data downloaded is dependent on ex1_1.R under src directory
 data/testdata.tsv: src/ex1_1.R
